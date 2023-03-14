@@ -1,1 +1,1 @@
-# Seminarski rad Front End Developer- Algebra 2023
+# Seminarski rad Front End Developer - Algebra 2023.
